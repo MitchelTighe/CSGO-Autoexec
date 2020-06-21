@@ -1,0 +1,1 @@
+-novid -console +mat_queue_mode 2 -freq 144 -high -d3d9ex -tickrate 128
